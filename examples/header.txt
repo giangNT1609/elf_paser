@@ -1,0 +1,20 @@
+ELF Header:
+Magic:	7f 45 4c 46 02 01 01 00 00 00 00 00 00 00 00 00 
+Class:	ELF64
+Data:	little endian
+Version: 1
+OS:	SYSTEM V
+ABI Version:	 0
+Type:	REL
+Machine:	amd64
+Version:	 0x1
+Entry point address:	 0x0
+Start of program headers:	 0
+Start of section headers:	 17104
+Flags:	 0x0
+Size of this header:	 64 (bytes)
+Size of program headers:	 0
+Number of program headers:	 0
+Size of section headers:	 64
+Number of section headers:	 15
+Section header string table index:	 14

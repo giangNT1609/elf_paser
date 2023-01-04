@@ -1,0 +1,2 @@
+  Type              Offset             VirtAddr           PhysAddr
+                    FileSiz            MemSiz             Flags Align
